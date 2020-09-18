@@ -31,18 +31,6 @@ let logout =() =>{
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 let screen = document.getElementById("messageList");
 let message = document.getElementById("messageInput");
 let person = document.getElementById("person");
